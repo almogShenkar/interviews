@@ -10,7 +10,7 @@ ENV/
 
 # IDE
 .vscode/
-/.idea/
+.idea/
 
 # Creds
 .env
