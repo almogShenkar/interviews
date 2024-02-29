@@ -2,7 +2,7 @@ import click
 import json
 
 # File path for storing the datastore
-DATASTORE_FILE = "datastore.json"
+DATASTORE_FILE = "db_datastore/datastore.json"
 
 
 # Function to load the datastore from a JSON file
